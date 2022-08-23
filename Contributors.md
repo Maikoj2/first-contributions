@@ -430,6 +430,7 @@
 - [Bernie Lorente](https://github.com/berniemackie97)
 - [Christopher Palileo](https://github.com/cpalileo)
 - [John Deen Bucog(Kijimai)](https://github.com/Kijimai)
+- [maiik jimnz](https://github.com/Maikoj2)
 - [Nicole (Niki) Kim](https://github.com/nikikim01)
 - [Aditya kumar](https://github.com/codekid20)
 - [dreamyvvoice](https://github.com/dreamyvoice)
